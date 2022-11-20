@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 !*.h 
 !*.c 
 !*.cpp
@@ -16,8 +16,6 @@
 /*/re
 /.vs
 
-=======
->>>>>>> c70186cadb62a019704dcc4e3c57e5f0e649eacd
 # Prerequisites
 *.d
 
